@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    gcp:
+      project-id: []
+      credentials:
+        location: file:[]
